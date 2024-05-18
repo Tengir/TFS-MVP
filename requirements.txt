@@ -1,0 +1,9 @@
+tqdm
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+networkx==2.8.8
+torch
+gcastle==1.0.3
